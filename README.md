@@ -39,15 +39,16 @@ A storytelling application where users can explore and read diverse collections 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
+![BanhCute's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanhCute&show_icons=true&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanhCute&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BanhCute&theme=radical&hide_border=true)
 
 ---
 
-### 📫 Connect with Me
+### 🔗 Connect with Me
 
 Feel free to check out my projects and connect with me for collaboration opportunities!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongnga252003@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/banhh.cute)
 
