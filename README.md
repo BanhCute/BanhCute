@@ -42,7 +42,7 @@ A storytelling application where users can explore and read diverse collections 
 ---
 
 ### 📊 GitHub Stats  
-![BanhCute's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanhCute&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanhCute&layout=compact&theme=radical)
 
@@ -51,7 +51,6 @@ A storytelling application where users can explore and read diverse collections 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BanhCute&theme=react)
 
 
-[![Skyline](https://skyline.github.com/BanhCute/2023.png)](https://skyline.github.com/BanhCute/2023)
 
 
 
