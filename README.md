@@ -50,9 +50,11 @@ A storytelling application where users can explore and read diverse collections 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BanhCute&theme=react)
 
-[![GitHub Skyline](https://github.com/BanhCute/skyline)](https://skyline.github.com/BanhCute)
 
-![Metrics](https://github.com/BanhCute/BanhCute/blob/main/github-metrics.svg)
+[![Skyline](https://skyline.github.com/BanhCute/2023.png)](https://skyline.github.com/BanhCute/2023)
+
+
+
 
 ---
 
