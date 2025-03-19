@@ -9,6 +9,6 @@
 
 ### 📌 Featured Projects:
 - 🧡 [CafeTheDating](https://github.com/sharrlotte/CafeTheDating) - A dating app built with React + TypeScript
-- 🛠️ [CRMS](https://github.com/BanhCute/CRMS) - A customer relationship management system using JavaScript
+- 🛠️ [App_Truyen]([https://github.com/BanhCute/CRMS](https://github.com/BanhCute/App_Truyen)) - A dating app built with Flutter + TypeScript
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanhCute&show_icons=true&theme=radical)
