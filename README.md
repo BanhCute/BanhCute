@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm **BanhCute**
 
-💻 **Aspiring Senior Fullstack Developer**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F74A7C&width=600&lines=%F0%9F%92%BB+Aspiring+Senior+Fullstack+Developer;%E2%9A%99%EF%B8%8F+Passionate+about+modern+technologies;%F0%9F%9A%80+Building+robust+%26+scalable+apps)
 
 I am passionate about building robust and scalable applications using modern web technologies. Currently, I am focusing on improving my skills in **React (TypeScript)** and **Node.js (NestJS)** while also gaining experience with **C# (ASP.NET Core)**.
 
@@ -42,6 +42,9 @@ A storytelling application where users can explore and read diverse collections 
 ### 📊 GitHub Stats  
 ![BanhCute's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanhCute&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanhCute&layout=compact&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=BanhCute&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
@@ -51,4 +54,3 @@ Feel free to check out my projects and connect with me for collaboration opportu
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongnga252003@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/banhh.cute)
-
