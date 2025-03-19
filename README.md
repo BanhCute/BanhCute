@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm BanhCute 👋
 
-<!--
-**BanhCute/BanhCute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **I'm a Software Developer specializing in Fullstack Development**
 
-Here are some ideas to get you started:
+🚀 **Tech Stack:**  
+- 🌐 Frontend: React (TypeScript), TailwindCSS  
+- 📦 Backend: Node.js (Express, NestJS), C# (ASP.NET Core)  
+- 📊 Database: MySQL, PostgreSQL (Neon.tech)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects:
+- 🧡 [CafeTheDating](https://github.com/sharrlotte/CafeTheDating) - A dating app built with React + TypeScript
+- 🛠️ [CRMS](https://github.com/BanhCute/CRMS) - A customer relationship management system using JavaScript
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanhCute&show_icons=true&theme=radical)
